@@ -1,0 +1,4 @@
+# IT academy
+## Algoritmika
+### Exercises
+
